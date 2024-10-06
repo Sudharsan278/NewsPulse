@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Laura Doan",
+            "title": "Trump falsely claims Democrats support abortions \"after birth.\" Here's a fact check. - CBS News",
+            "description": "Infanticide is illegal in every state, and Vice President Kamala Harris and her running mate, Tim Walz, have never supported it.",
+            "url": "https://www.cbsnews.com/news/trump-falsely-claims-democrats-support-abortions-after-birth/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/09/11/53a4f23d-c79b-431d-ad53-ad36e95666da/thumbnail/1200x630g2/92611fca3e80b884be098f944fe201f8/trump-harris-debate2.jpg?v=eed8fba9acd13199742a248f804168a1",
+            "publishedAt": "2024-09-11T23:49:00Z",
+            "content": "Former President Donald Trump falsely claimed during Tuesday night's presidential debate that Vice President Kamala Harris' running mate, Minnesota Gov. Tim Walz, supports the \"execution\" of babies a… [+4498 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "Jon Bon Jovi helps talk woman off ledge of Nashville bridge: Police - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/US/jon-bon-jovi-helps-woman-nashville-bridge/story?id\\\\u003d113604635",
+            "urlToImage": null,
+            "publishedAt": "2024-09-11T23:40:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Caitlin Yilek",
+            "title": "Ohio Gov. Mike DeWine pushes back on fake migrant story amplified by Trump: \"The internet can be quite crazy\" - CBS News",
+            "description": "The baseless rumors have been amplified in recent days by former President Donald Trump and his allies.",
+            "url": "https://www.cbsnews.com/news/mike-dewine-haitian-migrants-pets-springfield-trump/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/09/11/6dcc2e46-1776-4a50-82fb-a93feff3ddc0/thumbnail/1200x630/ec53c8558c33c8a2efe24e0f2dd254e5/cbsn-fusion-ohio-gov-mike-dewine-rejects-fake-migrant-story-the-internet-can-be-quite-crazy-sometimes-thumbnail.jpg?v=eed8fba9acd13199742a248f804168a1",
+            "publishedAt": "2024-09-11T23:12:00Z",
+            "content": "Washington — Ohio Gov. Mike DeWine, a Republican, distanced himself from former President Donald Trump's false claim that Haitian immigrants in Springfield are eating people's pets. \r\n\"This is someth… [+2445 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Yael Halon",
+            "title": "Independent voters surprise pollster with reactions to Trump's debate performance: 'Didn't expect it' - Fox News",
+            "description": "Independent voters overlapped with Republicans in support of former President Trump's immigration policies during Tuesday's presidential debate, according to voter dials from a Fox News focus group.",
+            "url": "https://www.foxnews.com/media/independent-voters-have-surprising-reaction-trumps-debate-performance-didnt-expect-it",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/Video-1-1.jpg",
+            "publishedAt": "2024-09-11T18:07:00Z",
+            "content": "Join Fox News for access to this content\r\nYou have reached your maximum number of articles. Log in or create an account FREE of charge to continue reading.\r\nBy entering your email and pushing continu… [+3764 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SamMobile"
+            },
+            "author": "SamMobile - Samsung news",
+            "title": "More Galaxy Tab S10+ and Ultra images leak along with specs - SamMobile - Samsung news",
+            "description": null,
+            "url": "https://www.sammobile.com/news/big-galaxy-tab-s10-plus-ultra-leak-images-specs/",
+            "urlToImage": null,
+            "publishedAt": "2024-09-11T16:51:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Maze singer Frankie Beverly dies aged 77 - BBC.com",
+            "description": "The news was confirmed by his family on social media, who said he lived his life with \"pure soul\".",
+            "url": "https://www.bbc.com/news/articles/c3rdgy2gdjpo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7df9/live/4ed8d5f0-7051-11ef-8724-35406148d765.jpg",
+            "publishedAt": "2024-09-11T15:04:39Z",
+            "content": "Maze singer Frankie Beverly has died aged 77, his family have confirmed.\r\nThe soul star known for hits such as Before I Let Go and Cant Get Over You died on Tuesday.\r\nBeverly's family announced the n… [+1603 chars]"
+        }
+    ]
+}
